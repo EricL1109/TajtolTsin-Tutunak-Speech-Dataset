@@ -43,7 +43,7 @@ These resources enable acoustic and phonetic analysis, as well as experimentatio
 
 ---
 
-<img width="425" height="225" alt="table_1" src="https://github.com/user-attachments/assets/d4c73ae4-7619-4d8d-a7cc-28a7d440b078" />
+<img width="600" height="400" alt="table_1" src="https://github.com/user-attachments/assets/d4c73ae4-7619-4d8d-a7cc-28a7d440b078" />
 
 
 ## Dataset Structure
