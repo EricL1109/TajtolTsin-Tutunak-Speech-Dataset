@@ -1,3 +1,6 @@
+<img width="1718" height="916" alt="table_1" src="https://github.com/user-attachments/assets/62773647-693a-4f7e-aa3f-2bf1fe02cde2" />
+<img width="1718" height="916" alt="table_1" src="https://github.com/user-attachments/assets/0da89fa3-4c87-4b8b-9029-2d39f11639d8" />
+<img width="1718" height="916" alt="ChatGPT Image 5 may 2026, 19_05_08" src="https://github.com/user-attachments/assets/d4cbb662-ed10-4054-8a43-2798640f7744" />
 # Tutunakú-Speech-Dataset
 
 This repository presents a speech database and digital lexical resource for the Tutunakú language developed for research in Automatic Speech Recognition (ASR), Natural Language Processing (NLP), phonetic analysis, and low-resource indigenous language technologies.
@@ -42,6 +45,9 @@ The complete database contains more than 20,000 segmented audio fragments genera
 These resources enable acoustic and phonetic analysis, as well as experimentation in speech recognition, phonetic classification, grapheme-to-phoneme modeling, and low-resource indigenous language preservation tasks.
 
 ---
+
+<img width="850" height="450" alt="table_1" src="https://github.com/user-attachments/assets/d4c73ae4-7619-4d8d-a7cc-28a7d440b078" />
+
 
 ## Dataset Structure
 
