@@ -98,12 +98,19 @@ This resource can be used for:
 If you use this dataset in academic research, please cite:
 
 ```bibtex
-@article{badillo2025tutunaku,
-  title={Desarrollo de Base de Datos para el Procesamiento Automático del Tutunakú: una Aproximación desde Lenguas de Bajos Recursos},
-  author={Badillo Zavala, Johanna Keira and Sánchez Flores, Anahi and Ramos-Aguilar, Eric and Olvera-López, J Arturo},
-  journal={Computación y Sistemas},
-  year={2025}
+@conferencepaper{badillo2025tutunaku,
+  author       = {Johanna Keira Badillo Zavala and
+                  Anahi S{\'a}nchez Flores and
+                  Eric Ramos Aguilar and
+                  J. Arturo Olvera-L{\'o}pez},
+  title        = {Desarrollo de Base de Datos para el Procesamiento Autom{\'a}tico del Tutunak{\'u}: una Aproximaci{\'o}n desde Lenguas de Bajos Recursos},
+  year         = {2025},
+  month        = dec,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17871815},
+  url          = {https://doi.org/10.5281/zenodo.17871815}
 }
+
 ```
 
 ---
