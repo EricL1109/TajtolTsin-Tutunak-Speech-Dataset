@@ -104,22 +104,30 @@ If you use this dataset in academic research, please cite:
 ```
 
 ---
-
 ## License
 
 © 2025 Johanna Keira Badillo Zavala et al.
 
-This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+This dataset is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
 
 You are free to:
-
-- Share — copy and redistribute the material
-- Adapt — remix, transform, and build upon the material
+- Share — copy and redistribute the material  
+- Adapt — remix, transform, and build upon the material  
 
 Under the following terms:
+- Attribution — You must give appropriate credit to the original authors  
+- NonCommercial — You may not use the material for commercial purposes  
 
-- Attribution — You must give appropriate credit to the original authors
-- NonCommercial — You may not use the material for commercial purposes
+This dataset is intended for research and educational use, particularly in the study of low-resource languages.
+
+For more details: https://creativecommons.org/licenses/by-nc/4.0/
+
+For commercial use or special permissions, please contact the authors:  
+
+Johanna Keira Badillo Zavala ([jbadillozz2100@alumno.ipn.mx](mailto:jbadillozz2100@alumno.ipn.mx))  
+Anahi Sánchez Flores ([asanchezf2101@alumno.ipn.mx](mailto:asanchezf2101@alumno.ipn.mx))  
+Eric Ramos Aguilar ([eramosa@ipn.mx](mailto:eramosa@ipn.mx))
+
 
 This dataset is intended for research and educational purposes, particularly for the study of low-resource indigenous languages.
 
