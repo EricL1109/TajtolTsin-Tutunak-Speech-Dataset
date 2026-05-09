@@ -92,6 +92,11 @@ This resource can be used for:
 - Research on low-resource languages
 
 ---
+## Associated Paper
+
+Desarrollo de Base de Datos para el Procesamiento Automático del Tutunakú: una Aproximación desde Lenguas de Bajos Recursos
+
+https://zenodo.org/records/17871815
 
 ## Citation
 
